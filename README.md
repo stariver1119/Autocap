@@ -2,6 +2,7 @@
 Desktop Automatic Screen Capture Program with Claude
 
 # Background Story
+[KOREAN](https://dfsu.tistory.com/7).
 
 In early 2022, I stepped away from traditional coding after hearing from industry professionals that AI-driven development would soon render many aspects of manual coding obsolete. However, my interest in automation and system design persisted. Over the past few years, I’ve tackled various repetitive tasks by devising efficient workflows, often leveraging tools like Excel and Word to automate processes. Below are two notable instances where I implemented such solutions:
 
